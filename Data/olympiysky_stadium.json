@@ -1,0 +1,1951 @@
+{
+  "stadiumId": 1,
+  "name": "Олімпійський",
+  "capacity": 540,
+  "sectors": [
+    {
+      "sectorId": 1,
+      "name": "Сектор 1",
+      "rows": [
+        {
+          "rowNumber": 1,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        },
+        {
+          "rowNumber": 2,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        },
+        {
+          "rowNumber": 3,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        },
+        {
+          "rowNumber": 4,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        },
+        {
+          "rowNumber": 5,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        },
+        {
+          "rowNumber": 6,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectorId": 2,
+      "name": "Сектор 2",
+      "rows": [
+        {
+          "rowNumber": 1,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        },
+        {
+          "rowNumber": 2,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        },
+        {
+          "rowNumber": 3,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        },
+        {
+          "rowNumber": 4,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        },
+        {
+          "rowNumber": 5,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        },
+        {
+          "rowNumber": 6,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectorId": 3,
+      "name": "Сектор 3",
+      "rows": [
+        {
+          "rowNumber": 1,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        },
+        {
+          "rowNumber": 2,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        },
+        {
+          "rowNumber": 3,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        },
+        {
+          "rowNumber": 4,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        },
+        {
+          "rowNumber": 5,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        },
+        {
+          "rowNumber": 6,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectorId": 4,
+      "name": "Сектор 4",
+      "rows": [
+        {
+          "rowNumber": 1,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        },
+        {
+          "rowNumber": 2,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        },
+        {
+          "rowNumber": 3,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        },
+        {
+          "rowNumber": 4,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        },
+        {
+          "rowNumber": 5,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        },
+        {
+          "rowNumber": 6,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectorId": 5,
+      "name": "Сектор 5",
+      "rows": [
+        {
+          "rowNumber": 1,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        },
+        {
+          "rowNumber": 2,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        },
+        {
+          "rowNumber": 3,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        },
+        {
+          "rowNumber": 4,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        },
+        {
+          "rowNumber": 5,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        },
+        {
+          "rowNumber": 6,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectorId": 6,
+      "name": "Сектор 6",
+      "rows": [
+        {
+          "rowNumber": 1,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        },
+        {
+          "rowNumber": 2,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        },
+        {
+          "rowNumber": 3,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        },
+        {
+          "rowNumber": 4,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        },
+        {
+          "rowNumber": 5,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        },
+        {
+          "rowNumber": 6,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectorId": 7,
+      "name": "Сектор 7",
+      "rows": [
+        {
+          "rowNumber": 1,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        },
+        {
+          "rowNumber": 2,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        },
+        {
+          "rowNumber": 3,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        },
+        {
+          "rowNumber": 4,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        },
+        {
+          "rowNumber": 5,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        },
+        {
+          "rowNumber": 6,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectorId": 8,
+      "name": "Фан-зона 1",
+      "rows": [
+        {
+          "rowNumber": 1,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        },
+        {
+          "rowNumber": 2,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        },
+        {
+          "rowNumber": 3,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        },
+        {
+          "rowNumber": 4,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        },
+        {
+          "rowNumber": 5,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        },
+        {
+          "rowNumber": 6,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectorId": 9,
+      "name": "Фан-зона 2",
+      "rows": [
+        {
+          "rowNumber": 1,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        },
+        {
+          "rowNumber": 2,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        },
+        {
+          "rowNumber": 3,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        },
+        {
+          "rowNumber": 4,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        },
+        {
+          "rowNumber": 5,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        },
+        {
+          "rowNumber": 6,
+          "seats": [
+            {
+              "seatNumber": 1
+            },
+            {
+              "seatNumber": 2
+            },
+            {
+              "seatNumber": 3
+            },
+            {
+              "seatNumber": 4
+            },
+            {
+              "seatNumber": 5
+            },
+            {
+              "seatNumber": 6
+            },
+            {
+              "seatNumber": 7
+            },
+            {
+              "seatNumber": 8
+            },
+            {
+              "seatNumber": 9
+            },
+            {
+              "seatNumber": 10
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3026 @@
+{
+  "matchId": 1,
+  "stadiumId": 1,
+  "homeTeam": "Динамо",
+  "awayTeam": "Шахтар",
+  "url": "dinamo-shaktar-2025",
+  "image": "dinamo-shaktar.png",
+  "date": "2025-02-02T19:00:00.000Z",
+  "sectors": [
+    {
+      "sectorId": 1,
+      "rows": [
+        {
+          "rowNumber": 1,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 2,
+              "price": 500,
+              "available": false
+            },
+            {
+              "seatNumber": 3,
+              "price": 500,
+              "available": false
+            },
+            {
+              "seatNumber": 4,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 5,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 6,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 7,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 8,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 9,
+              "price": 500,
+              "available": false
+            },
+            {
+              "seatNumber": 10,
+              "price": 500,
+              "available": true
+            }
+          ]
+        },
+        {
+          "rowNumber": 2,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 2,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 3,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 4,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 5,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 6,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 7,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 8,
+              "price": 500,
+              "available": false
+            },
+            {
+              "seatNumber": 9,
+              "price": 500,
+              "available": false
+            },
+            {
+              "seatNumber": 10,
+              "price": 500,
+              "available": true
+            }
+          ]
+        },
+        {
+          "rowNumber": 3,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 2,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 3,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 4,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 5,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 6,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 7,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 8,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 9,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 10,
+              "price": 300,
+              "available": true
+            }
+          ]
+        },
+        {
+          "rowNumber": 4,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 2,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 3,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 4,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 5,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 6,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 7,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 8,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 9,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 10,
+              "price": 300,
+              "available": true
+            }
+          ]
+        },
+        {
+          "rowNumber": 5,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 2,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 3,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 4,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 5,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 6,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 7,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 8,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 9,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 10,
+              "price": 300,
+              "available": true
+            }
+          ]
+        },
+        {
+          "rowNumber": 6,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 2,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 3,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 4,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 5,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 6,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 7,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 8,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 9,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 10,
+              "price": 300,
+              "available": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectorId": 2,
+      "rows": [
+        {
+          "rowNumber": 1,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 2,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 3,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 4,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 5,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 6,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 7,
+              "price": 500,
+              "available": false
+            },
+            {
+              "seatNumber": 8,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 9,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 10,
+              "price": 500,
+              "available": true
+            }
+          ]
+        },
+        {
+          "rowNumber": 2,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 2,
+              "price": 500,
+              "available": false
+            },
+            {
+              "seatNumber": 3,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 4,
+              "price": 500,
+              "available": false
+            },
+            {
+              "seatNumber": 5,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 6,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 7,
+              "price": 500,
+              "available": false
+            },
+            {
+              "seatNumber": 8,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 9,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 10,
+              "price": 500,
+              "available": false
+            }
+          ]
+        },
+        {
+          "rowNumber": 3,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 2,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 3,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 4,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 5,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 6,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 7,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 8,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 9,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 10,
+              "price": 300,
+              "available": true
+            }
+          ]
+        },
+        {
+          "rowNumber": 4,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 2,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 3,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 4,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 5,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 6,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 7,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 8,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 9,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 10,
+              "price": 300,
+              "available": false
+            }
+          ]
+        },
+        {
+          "rowNumber": 5,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 2,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 3,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 4,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 5,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 6,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 7,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 8,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 9,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 10,
+              "price": 300,
+              "available": true
+            }
+          ]
+        },
+        {
+          "rowNumber": 6,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 2,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 3,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 4,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 5,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 6,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 7,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 8,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 9,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 10,
+              "price": 300,
+              "available": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectorId": 3,
+      "rows": [
+        {
+          "rowNumber": 1,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 2,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 3,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 4,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 5,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 6,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 7,
+              "price": 500,
+              "available": false
+            },
+            {
+              "seatNumber": 8,
+              "price": 500,
+              "available": false
+            },
+            {
+              "seatNumber": 9,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 10,
+              "price": 500,
+              "available": true
+            }
+          ]
+        },
+        {
+          "rowNumber": 2,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 2,
+              "price": 500,
+              "available": false
+            },
+            {
+              "seatNumber": 3,
+              "price": 500,
+              "available": false
+            },
+            {
+              "seatNumber": 4,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 5,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 6,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 7,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 8,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 9,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 10,
+              "price": 500,
+              "available": true
+            }
+          ]
+        },
+        {
+          "rowNumber": 3,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 2,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 3,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 4,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 5,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 6,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 7,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 8,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 9,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 10,
+              "price": 300,
+              "available": true
+            }
+          ]
+        },
+        {
+          "rowNumber": 4,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 2,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 3,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 4,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 5,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 6,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 7,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 8,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 9,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 10,
+              "price": 300,
+              "available": true
+            }
+          ]
+        },
+        {
+          "rowNumber": 5,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 2,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 3,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 4,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 5,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 6,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 7,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 8,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 9,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 10,
+              "price": 300,
+              "available": false
+            }
+          ]
+        },
+        {
+          "rowNumber": 6,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 2,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 3,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 4,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 5,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 6,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 7,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 8,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 9,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 10,
+              "price": 300,
+              "available": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectorId": 4,
+      "rows": [
+        {
+          "rowNumber": 1,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 500,
+              "available": false
+            },
+            {
+              "seatNumber": 2,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 3,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 4,
+              "price": 500,
+              "available": false
+            },
+            {
+              "seatNumber": 5,
+              "price": 500,
+              "available": false
+            },
+            {
+              "seatNumber": 6,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 7,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 8,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 9,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 10,
+              "price": 500,
+              "available": true
+            }
+          ]
+        },
+        {
+          "rowNumber": 2,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 2,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 3,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 4,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 5,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 6,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 7,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 8,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 9,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 10,
+              "price": 500,
+              "available": true
+            }
+          ]
+        },
+        {
+          "rowNumber": 3,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 2,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 3,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 4,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 5,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 6,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 7,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 8,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 9,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 10,
+              "price": 300,
+              "available": false
+            }
+          ]
+        },
+        {
+          "rowNumber": 4,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 2,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 3,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 4,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 5,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 6,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 7,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 8,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 9,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 10,
+              "price": 300,
+              "available": true
+            }
+          ]
+        },
+        {
+          "rowNumber": 5,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 2,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 3,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 4,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 5,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 6,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 7,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 8,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 9,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 10,
+              "price": 300,
+              "available": false
+            }
+          ]
+        },
+        {
+          "rowNumber": 6,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 2,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 3,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 4,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 5,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 6,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 7,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 8,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 9,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 10,
+              "price": 300,
+              "available": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectorId": 5,
+      "rows": [
+        {
+          "rowNumber": 1,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 500,
+              "available": false
+            },
+            {
+              "seatNumber": 2,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 3,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 4,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 5,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 6,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 7,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 8,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 9,
+              "price": 500,
+              "available": false
+            },
+            {
+              "seatNumber": 10,
+              "price": 500,
+              "available": true
+            }
+          ]
+        },
+        {
+          "rowNumber": 2,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 500,
+              "available": false
+            },
+            {
+              "seatNumber": 2,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 3,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 4,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 5,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 6,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 7,
+              "price": 500,
+              "available": false
+            },
+            {
+              "seatNumber": 8,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 9,
+              "price": 500,
+              "available": false
+            },
+            {
+              "seatNumber": 10,
+              "price": 500,
+              "available": false
+            }
+          ]
+        },
+        {
+          "rowNumber": 3,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 2,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 3,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 4,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 5,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 6,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 7,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 8,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 9,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 10,
+              "price": 300,
+              "available": false
+            }
+          ]
+        },
+        {
+          "rowNumber": 4,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 2,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 3,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 4,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 5,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 6,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 7,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 8,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 9,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 10,
+              "price": 300,
+              "available": true
+            }
+          ]
+        },
+        {
+          "rowNumber": 5,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 2,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 3,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 4,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 5,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 6,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 7,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 8,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 9,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 10,
+              "price": 300,
+              "available": true
+            }
+          ]
+        },
+        {
+          "rowNumber": 6,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 2,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 3,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 4,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 5,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 6,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 7,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 8,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 9,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 10,
+              "price": 300,
+              "available": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectorId": 6,
+      "rows": [
+        {
+          "rowNumber": 1,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 2,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 3,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 4,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 5,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 6,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 7,
+              "price": 500,
+              "available": false
+            },
+            {
+              "seatNumber": 8,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 9,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 10,
+              "price": 500,
+              "available": false
+            }
+          ]
+        },
+        {
+          "rowNumber": 2,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 2,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 3,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 4,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 5,
+              "price": 500,
+              "available": false
+            },
+            {
+              "seatNumber": 6,
+              "price": 500,
+              "available": false
+            },
+            {
+              "seatNumber": 7,
+              "price": 500,
+              "available": false
+            },
+            {
+              "seatNumber": 8,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 9,
+              "price": 500,
+              "available": false
+            },
+            {
+              "seatNumber": 10,
+              "price": 500,
+              "available": true
+            }
+          ]
+        },
+        {
+          "rowNumber": 3,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 2,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 3,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 4,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 5,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 6,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 7,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 8,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 9,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 10,
+              "price": 300,
+              "available": false
+            }
+          ]
+        },
+        {
+          "rowNumber": 4,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 2,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 3,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 4,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 5,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 6,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 7,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 8,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 9,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 10,
+              "price": 300,
+              "available": true
+            }
+          ]
+        },
+        {
+          "rowNumber": 5,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 2,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 3,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 4,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 5,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 6,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 7,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 8,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 9,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 10,
+              "price": 300,
+              "available": true
+            }
+          ]
+        },
+        {
+          "rowNumber": 6,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 2,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 3,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 4,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 5,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 6,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 7,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 8,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 9,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 10,
+              "price": 300,
+              "available": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectorId": 7,
+      "rows": [
+        {
+          "rowNumber": 1,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 2,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 3,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 4,
+              "price": 500,
+              "available": false
+            },
+            {
+              "seatNumber": 5,
+              "price": 500,
+              "available": false
+            },
+            {
+              "seatNumber": 6,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 7,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 8,
+              "price": 500,
+              "available": false
+            },
+            {
+              "seatNumber": 9,
+              "price": 500,
+              "available": false
+            },
+            {
+              "seatNumber": 10,
+              "price": 500,
+              "available": true
+            }
+          ]
+        },
+        {
+          "rowNumber": 2,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 2,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 3,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 4,
+              "price": 500,
+              "available": false
+            },
+            {
+              "seatNumber": 5,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 6,
+              "price": 500,
+              "available": false
+            },
+            {
+              "seatNumber": 7,
+              "price": 500,
+              "available": false
+            },
+            {
+              "seatNumber": 8,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 9,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 10,
+              "price": 500,
+              "available": false
+            }
+          ]
+        },
+        {
+          "rowNumber": 3,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 2,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 3,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 4,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 5,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 6,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 7,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 8,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 9,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 10,
+              "price": 300,
+              "available": true
+            }
+          ]
+        },
+        {
+          "rowNumber": 4,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 2,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 3,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 4,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 5,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 6,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 7,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 8,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 9,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 10,
+              "price": 300,
+              "available": true
+            }
+          ]
+        },
+        {
+          "rowNumber": 5,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 2,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 3,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 4,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 5,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 6,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 7,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 8,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 9,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 10,
+              "price": 300,
+              "available": false
+            }
+          ]
+        },
+        {
+          "rowNumber": 6,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 2,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 3,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 4,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 5,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 6,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 7,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 8,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 9,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 10,
+              "price": 300,
+              "available": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectorId": 8,
+      "rows": [
+        {
+          "rowNumber": 1,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 2,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 3,
+              "price": 500,
+              "available": false
+            },
+            {
+              "seatNumber": 4,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 5,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 6,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 7,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 8,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 9,
+              "price": 500,
+              "available": false
+            },
+            {
+              "seatNumber": 10,
+              "price": 500,
+              "available": true
+            }
+          ]
+        },
+        {
+          "rowNumber": 2,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 500,
+              "available": false
+            },
+            {
+              "seatNumber": 2,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 3,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 4,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 5,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 6,
+              "price": 500,
+              "available": false
+            },
+            {
+              "seatNumber": 7,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 8,
+              "price": 500,
+              "available": false
+            },
+            {
+              "seatNumber": 9,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 10,
+              "price": 500,
+              "available": false
+            }
+          ]
+        },
+        {
+          "rowNumber": 3,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 2,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 3,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 4,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 5,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 6,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 7,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 8,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 9,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 10,
+              "price": 300,
+              "available": false
+            }
+          ]
+        },
+        {
+          "rowNumber": 4,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 2,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 3,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 4,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 5,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 6,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 7,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 8,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 9,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 10,
+              "price": 300,
+              "available": true
+            }
+          ]
+        },
+        {
+          "rowNumber": 5,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 2,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 3,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 4,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 5,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 6,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 7,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 8,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 9,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 10,
+              "price": 300,
+              "available": true
+            }
+          ]
+        },
+        {
+          "rowNumber": 6,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 2,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 3,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 4,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 5,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 6,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 7,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 8,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 9,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 10,
+              "price": 300,
+              "available": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectorId": 9,
+      "rows": [
+        {
+          "rowNumber": 1,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 2,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 3,
+              "price": 500,
+              "available": false
+            },
+            {
+              "seatNumber": 4,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 5,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 6,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 7,
+              "price": 500,
+              "available": false
+            },
+            {
+              "seatNumber": 8,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 9,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 10,
+              "price": 500,
+              "available": false
+            }
+          ]
+        },
+        {
+          "rowNumber": 2,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 2,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 3,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 4,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 5,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 6,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 7,
+              "price": 500,
+              "available": true
+            },
+            {
+              "seatNumber": 8,
+              "price": 500,
+              "available": false
+            },
+            {
+              "seatNumber": 9,
+              "price": 500,
+              "available": false
+            },
+            {
+              "seatNumber": 10,
+              "price": 500,
+              "available": true
+            }
+          ]
+        },
+        {
+          "rowNumber": 3,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 2,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 3,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 4,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 5,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 6,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 7,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 8,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 9,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 10,
+              "price": 300,
+              "available": false
+            }
+          ]
+        },
+        {
+          "rowNumber": 4,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 2,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 3,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 4,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 5,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 6,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 7,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 8,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 9,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 10,
+              "price": 300,
+              "available": true
+            }
+          ]
+        },
+        {
+          "rowNumber": 5,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 2,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 3,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 4,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 5,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 6,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 7,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 8,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 9,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 10,
+              "price": 300,
+              "available": true
+            }
+          ]
+        },
+        {
+          "rowNumber": 6,
+          "seats": [
+            {
+              "seatNumber": 1,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 2,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 3,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 4,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 5,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 6,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 7,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 8,
+              "price": 300,
+              "available": false
+            },
+            {
+              "seatNumber": 9,
+              "price": 300,
+              "available": true
+            },
+            {
+              "seatNumber": 10,
+              "price": 300,
+              "available": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

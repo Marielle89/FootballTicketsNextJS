@@ -1,0 +1,53 @@
+networks:
+  app_network:
+    driver: bridge
+
+services:
+  next-app:
+    container_name: next-app
+    build:
+      dockerfile: dev.Dockerfile
+    depends_on:
+      mongo:
+        condition: service_started
+    volumes:
+      - ./styles:/app/styles
+      - ./public:/app/public
+      - ./app:/app/app
+      - ./components:/app/components
+      - ./config:/app/config
+      - ./models:/app/models
+      - ./utils:/app/utils
+    restart: always
+    ports:
+      - 3000:3000
+    networks:
+      - app_network
+
+  mongo:
+    container_name: mongo
+    image: mongo
+    restart: always
+    volumes:
+      - /var/mongo:/data/db
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: example
+      MONGO_INITDB_DATABASE: properties
+    ports:
+      - 27017:27017
+    networks:
+      - app_network
+
+  mongo-express:
+    image: mongo-express
+    restart: always
+    ports:
+      - 8081:8081
+    environment:
+      ME_CONFIG_MONGODB_ADMINUSERNAME: root
+      ME_CONFIG_MONGODB_ADMINPASSWORD: example
+      ME_CONFIG_MONGODB_URL: mongodb://root:example@mongo:27017/
+      ME_CONFIG_BASICAUTH: false
+    networks:
+      - app_network
